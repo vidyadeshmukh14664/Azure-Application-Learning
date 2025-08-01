@@ -14,7 +14,6 @@ namespace Azure_Application_Learning.Pages
 
         public void OnGet()
         {
-            throw new Exception("Error");
         }
     }
 
